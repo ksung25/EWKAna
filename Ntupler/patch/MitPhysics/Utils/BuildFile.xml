@@ -1,0 +1,12 @@
+<use   name="MitAna/DataTree"/>
+<use   name="MitAna/DataUtil"/>
+<use   name="CondFormats/EgammaObjects"/>
+<use   name="MitCommon/MathTools"/>
+<use   name="MitPhysics/ElectronLikelihood"/>
+<use   name="root"/>
+<use   name="roottmva"/>
+<use   name="rootcintex"/>
+<lib   name="EG"/>
+<export>
+  <lib   name="1"/>
+</export>

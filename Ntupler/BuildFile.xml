@@ -1,0 +1,10 @@
+<use   name="MitAna/TreeMod"/>
+<use   name="MitAna/DataTree"/>
+<use   name="MitPhysics/Utils"/>
+<use   name="CondFormats/JetMETObjects"/>
+<use   root=""/>
+<use   name="lhapdf"/>
+<flags   CXXFLAGS="-g -Wall"/>
+<export>
+  <lib   name="1"/>
+</export>
